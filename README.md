@@ -1,2 +1,2 @@
 # monsternikarl
-from: Nevarez, Karl Angelo M.
+Nevarez, Karl Angelo M.
